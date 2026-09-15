@@ -1,4 +1,5 @@
 site_name: Embedded Progress
+site_url: https://abrar74774.github.io/embedded-progress
 
 theme:
   name: material
