@@ -11,12 +11,14 @@
             "id": "c70ea3b5344ab815",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "media/hall.mp4"
+                "file": "blog/posts/projects/0004-Blinky.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "hall"
+              "title": "0004-Blinky"
             }
           }
         ]
@@ -174,6 +176,17 @@
   },
   "active": "c70ea3b5344ab815",
   "lastOpenFiles": [
+    "media/withaudio_hall.tmp.mp4",
+    "media/withaudio_withaudio_hall.mp4",
+    "media/withaudio_espidf-bme280-i2c.tmp.mp4",
+    "media/withaudio_withaudio_espidf-bme280-i2c.mp4",
+    "media/withaudio_ESP32+BME280.tmp.mp4",
+    "media/withaudio_withaudio_ESP32+BME280.mp4",
+    "media/withaudio_Dec_blink.tmp.mp4",
+    "media/withaudio_withaudio_Dec_blink.mp4",
+    "media/hall.mp4",
+    "media/withaudio_hall.mp4",
+    "media/withaudio_espidf-bme280-i2c.mp4",
     "index.md",
     "blog/posts/projects/0004-Blinky.md",
     "blog/posts/projects/0005-bme280-I2C.md",
@@ -184,16 +197,9 @@
     "blog/index.md",
     "blog/posts/projects/0002-hall-effect-sensor.md",
     "blog/posts/projects/0003-BME280-SPI-I2C.md",
-    "media/espidf-bme280-i2c.mp4",
-    "media/VID_20260830_210507.mp4",
     "blog/posts/projects/0001-decrementing-blinky.md",
-    "media/hall.mp4",
-    "media/Dec_blink.mp4",
     "media/IMG_20260812_174347.jpg",
-    "media/ESP32+BME280.mp4",
     "media/IMG_20260812_183338.jpg",
-    "media",
-    "New folder",
     "blog/posts/projects/0004-BME280-I2C.md",
     "Pasted image 20260812165228.png",
     "blog/posts/projects/004-BME280-I2C.md",
@@ -204,9 +210,6 @@
     "blog/posts/projects/hall-effect-sensor.md",
     "blog/posts/projects/decrementing-blinky.md",
     "blog/posts/projects/3-BME280-SPI.md",
-    "blog/posts",
-    "blog",
-    "blog/posts/projects/esp32 with esp-idf",
     "blog/posts/projects/4-BME280-I2C.md"
   ]
 }
