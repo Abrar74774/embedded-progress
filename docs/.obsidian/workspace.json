@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/posts/projects/0004-Blinky.md",
+                "file": "blog/posts/projects/0001-decrementing-blinky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0004-Blinky"
+              "title": "0001-decrementing-blinky"
             }
           }
         ]
@@ -176,6 +176,12 @@
   },
   "active": "c70ea3b5344ab815",
   "lastOpenFiles": [
+    "blog/posts/projects/0006-bme280-SPI.md",
+    "blog/posts/projects/0005-bme280-I2C.md",
+    "blog/posts/projects/0004-Blinky.md",
+    "blog/posts/projects/0003-BME280-SPI-I2C.md",
+    "blog/posts/projects/0001-decrementing-blinky.md",
+    "blog/posts/projects/0002-hall-effect-sensor.md",
     "media/withaudio_hall.tmp.mp4",
     "media/withaudio_withaudio_hall.mp4",
     "media/withaudio_espidf-bme280-i2c.tmp.mp4",
@@ -186,18 +192,11 @@
     "media/withaudio_withaudio_Dec_blink.mp4",
     "media/hall.mp4",
     "media/withaudio_hall.mp4",
-    "media/withaudio_espidf-bme280-i2c.mp4",
     "index.md",
-    "blog/posts/projects/0004-Blinky.md",
-    "blog/posts/projects/0005-bme280-I2C.md",
-    "blog/posts/projects/0006-bme280-SPI.md",
     "media/Pasted image 20260812165226.png",
     "media/Pasted image 20260812183530.png",
     "media/IMG_20260816_212049.jpg",
     "blog/index.md",
-    "blog/posts/projects/0002-hall-effect-sensor.md",
-    "blog/posts/projects/0003-BME280-SPI-I2C.md",
-    "blog/posts/projects/0001-decrementing-blinky.md",
     "media/IMG_20260812_174347.jpg",
     "media/IMG_20260812_183338.jpg",
     "blog/posts/projects/0004-BME280-I2C.md",
