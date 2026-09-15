@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "f648f3434f5926d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f97e617698858a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c70ea3b5344ab815",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "media/hall.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "hall"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dda5db0cb9bb8fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "279d842daaed191e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5371f49149899b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b83ff9522d242663",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "052c9d359768220c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f37e3a0d3611a289",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c61c5d44c21418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c05747cfa88b9f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bbcef7deb43b2d26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ac71b006f47b1a4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "75d4a193ead0f3d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c70ea3b5344ab815",
+  "lastOpenFiles": [
+    "index.md",
+    "blog/posts/projects/0004-Blinky.md",
+    "blog/posts/projects/0005-bme280-I2C.md",
+    "blog/posts/projects/0006-bme280-SPI.md",
+    "media/Pasted image 20260812165226.png",
+    "media/Pasted image 20260812183530.png",
+    "media/IMG_20260816_212049.jpg",
+    "blog/index.md",
+    "blog/posts/projects/0002-hall-effect-sensor.md",
+    "blog/posts/projects/0003-BME280-SPI-I2C.md",
+    "media/espidf-bme280-i2c.mp4",
+    "media/VID_20260830_210507.mp4",
+    "blog/posts/projects/0001-decrementing-blinky.md",
+    "media/hall.mp4",
+    "media/Dec_blink.mp4",
+    "media/IMG_20260812_174347.jpg",
+    "media/ESP32+BME280.mp4",
+    "media/IMG_20260812_183338.jpg",
+    "media",
+    "New folder",
+    "blog/posts/projects/0004-BME280-I2C.md",
+    "Pasted image 20260812165228.png",
+    "blog/posts/projects/004-BME280-I2C.md",
+    "blog/posts/projects/2-hall-effect-sensor.md",
+    "blog/posts/projects/1-decrementing-blinky.md",
+    "blog/posts/projects/BME280-I2C.md",
+    "blog/posts/projects/BME280-SPI.md",
+    "blog/posts/projects/hall-effect-sensor.md",
+    "blog/posts/projects/decrementing-blinky.md",
+    "blog/posts/projects/3-BME280-SPI.md",
+    "blog/posts",
+    "blog",
+    "blog/posts/projects/esp32 with esp-idf",
+    "blog/posts/projects/4-BME280-I2C.md"
+  ]
+}
